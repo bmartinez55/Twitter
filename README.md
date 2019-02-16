@@ -1,27 +1,26 @@
-# Project 3 - *Name of App Here*
+# Twitter
 
-**Name of your app** is a basic twitter app to read your tweets.
+Twitter is an app that allows users to browse their own Twitter account tweets using [The Twitter API](https://developer.twitter.com/en/docs.html).
 
-Time spent: **X** hours spent in total
+📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
-## User Stories
+---
 
-The following **required** functionality is completed:
+## Twitter Part 1
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+### User Stories
 
-The following **bonus** features are implemented:
+#### REQUIRED (10pts)
+- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
+- [x] (5pts) User can login/logout and stay logged in across restarts.
+- [x] (3pts) User can view tweets with the user profile picture, username, and tweet text.
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+#### BONUS
+- [x] (2pt) User can pull to refresh.
+- [x] (1pt) User can load past tweets infinitely.
 
-## Video Walkthrough
+### App Walkthough GIF
+<img src="http://g.recordit.co/5yExXazBfj.gif" width=250><br>
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+### Notes
+Describe any challenges encountered while building the app.
