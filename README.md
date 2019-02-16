@@ -23,4 +23,4 @@ Twitter is an app that allows users to browse their own Twitter account tweets u
 <img src="http://g.recordit.co/5yExXazBfj.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Some challenges I came across was understanding the functions that were newly introduced in this project. Also some of the constraints on the labels were sometimes off and made the tweets look off.
