@@ -1,23 +1,29 @@
-# Twitter
+# Twitter - Part I
 
-Twitter is an app that allows users to browse their own Twitter account tweets using [The Twitter API](https://developer.twitter.com/en/docs.html).
+This is a basic twitter app to read your tweets.
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+Time spent: **2** hours spent in total
 
----
+## User Stories
 
-## Twitter Part 1
+The following **required** functionality is completed:
 
-### User Stories
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can log out. (1pt)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
-#### REQUIRED (10pts)
-- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [x] (5pts) User can login/logout and stay logged in across restarts.
-- [x] (3pts) User can view tweets with the user profile picture, username, and tweet text.
+The following **bonus** features are implemented:
 
-#### BONUS
-- [x] (2pt) User can pull to refresh.
-- [x] (1pt) User can load past tweets infinitely.
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/5yExXazBfj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### App Walkthough GIF
 <img src="http://g.recordit.co/5yExXazBfj.gif" width=250><br>
