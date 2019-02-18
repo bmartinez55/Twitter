@@ -25,8 +25,5 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/5yExXazBfj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-### App Walkthough GIF
-<img src="http://g.recordit.co/5yExXazBfj.gif" width=250><br>
-
 ### Notes
 Some challenges I came across was understanding the functions that were newly introduced in this project. Also some of the constraints on the labels were sometimes off and made the tweets look off.
