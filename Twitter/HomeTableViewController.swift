@@ -20,6 +20,8 @@ class HomeTableViewController: UITableViewController {
         
         myrefreshControl.addTarget(self, action: #selector(loadTweets), for: .valueChanged)
         tableView.refreshControl = myrefreshControl
+        tableView.rowHeight = UITableView.automaticDimension
+        tableView.estimatedRowHeight = 110
     }
     
     override func viewDidAppear(_ animated: Bool) {
